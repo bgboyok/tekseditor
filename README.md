@@ -1,2 +1,2 @@
 # tekseditor
-Tekseditor seperti notepad bawaan Windows.
+Tekseditor seperti notepad bawaan Windows. Dibuat dengan aplikasi QT Desktop.
